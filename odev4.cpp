@@ -117,7 +117,7 @@ int main()
 	string kelime;
 	do
 	{
-		cout << endl << "Kelimeyi Girin...:";
+		cout << endl << "Kelimey Girin...:";
 		cin  >> kelime;
 		kapasite = 0;
 		while(kelime[kapasite])
